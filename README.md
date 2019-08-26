@@ -28,7 +28,7 @@ Different types of players can be created and used and managed.
 ## 4. ANALYTICS
 Used to measure the performance of videos based on different terms.
 
-![vscode image](https://github.com/santhoshkumarbollena/BrightCoveGithubPage/blob/master/Analytics.png "Analytics")
+![Hosted image](https://learning-services-media.brightcove.com/doc-assets/device-sdks/guides/analytics/account-accountId.png)
 
 Analytics obtained will be based on:
 - Video views
