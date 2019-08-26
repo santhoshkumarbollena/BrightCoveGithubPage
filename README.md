@@ -3,7 +3,7 @@ The Brightcove Studio was home to the Brightcove Internet TV platform. Geared  t
 ## 1. UPLOAD
 Used to upload the videos in brightcove.(adding and processing can be done).
 
-![vscode image](https://github.com/santhoshkumarbollena/BrightCoveGithubPage/blob/master/upload.png "Upload")
+![Hosted image](https://img.brightcove.com/node14456-upload-module1.png)
 
 End user can upload the video in three ways:
 1. By drag on drop the video into brightcove webpage.
@@ -13,7 +13,7 @@ End user can upload the video in three ways:
 ## 2. MEDIA
 Manages the video content i.e.,videos uploaded can be seen here.
 
-![vscode image](https://github.com/santhoshkumarbollena/BrightCoveGithubPage/blob/master/SocialMedia.png "Media")
+![Hosted image](https://martechtoday.com/wp-content/uploads/2019/02/node16342-social-module.png)
 
 To publish a video through social platforms:
 
