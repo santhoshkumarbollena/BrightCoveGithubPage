@@ -2,7 +2,7 @@
 The Brightcove Studio was home to the Brightcove Internet TV platform. Geared  toward professional video publishers, the studio was used to create, customize, distribute, and monetize video player widgets.
 ## 1. UPLOAD
 Used to upload the videos in brightcove.(adding and processing can be done).
-![Hosted image](https://github.com/santhoshkumarbollena/BrightCoveGithubPage/blob/master/upload.png)
+![Hosted image](https://github.com/santhoshkumarbollena/BrightCoveGithubPage/blob/master/upload.png "Upload")
 
 End user can upload the video in three ways:
 1. By drag on drop the video into brightcove webpage.
@@ -11,7 +11,7 @@ End user can upload the video in three ways:
 
 ## 2. MEDIA
 Manages the video content i.e.,videos uploaded can be seen here.
-![Hosted image](https://github.com/santhoshkumarbollena/BrightCoveGithubPage/blob/master/SocialMedia.png)
+![Hosted image](https://github.com/santhoshkumarbollena/BrightCoveGithubPage/blob/master/SocialMedia.png "Media")
 
 To publish a video through social platforms:
 
@@ -25,7 +25,7 @@ To publish a video through social platforms:
 Different types of players can be created and used and managed.
 ## 4. ANALYTICS
 Used to measure the performance of videos based on different terms.
-![Hosted image](https://github.com/santhoshkumarbollena/BrightCoveGithubPage/blob/master/Analytics.png)
+![Hosted image](https://github.com/santhoshkumarbollena/BrightCoveGithubPage/blob/master/Analytics.png "Analytics")
 
 Analytics obtained will be based on:
 - Video views
